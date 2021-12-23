@@ -1,0 +1,81 @@
+* {
+    background-color: #EEEEEE;
+}
+#header {
+    height: 50px;
+    width: 100%;
+    color: white;
+    font-size: x-large;
+    background-color: #F5BA13;
+    text-align: left;
+    padding-top: 10px;
+    box-shadow: 5px 5px 10px #918f8fa2;
+}
+#create {
+    width: 30vw;
+    height: 20vh;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 35vw;
+    margin-top: 2vh;
+    box-shadow: 5px 5px 10px #918f8fa2;
+}
+.display {
+    float: left;
+    width: 20vw;
+    height: 20vh;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 2vw;
+    margin-top: 2vh;
+    box-shadow: 5px 5px 10px #918f8fa2;
+}
+input[type=text] {
+    outline: none;
+    padding: 10px;
+    border:none;
+    font-size: 20px;
+    background-color: white;
+}
+#title {
+    width: 20vw;
+}
+#desc {
+    width: 24vw;
+}
+.title1 {
+    width: 16vw;
+    
+    background-color: white;
+}
+#desc1 {
+    width: 20vw;
+    background-color: white;
+}
+#addNotes {
+    float: right;
+    margin-top: 7vh;
+    margin-right: 0.5vw;
+    width: 4vw;
+    height: 8vh;
+    border-radius: 100%;
+    background-color: #F5BA13;
+    border:none;
+    color: white;
+}
+form{
+    background-color: white;
+}
+#delete {
+    float: right;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: white;
+    color:#F5BA13;
+    border: none;
+    outline: none;
+    margin-top: 2vh;
+    margin-right: 1vw;
+}
